@@ -7,7 +7,7 @@
 
 <h3>🚀 Live Demo</h3>
 <h3>
-  👉 <a href="https://samradhirestaurantsurvivor.streamlit.app/" target="_blank" style="color: #1d3557; font-weight: bold;">Try me, baby!</a>
+  👉 <a href="https://samradhirestaurantsurvivor.streamlit.app/" target="_blank" style="color: #1d3557; font-weight: bold;">Try me!</a>
 </h3>
 
 <h3>📦 Features</h3>
